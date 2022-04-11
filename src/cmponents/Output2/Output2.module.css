@@ -1,0 +1,42 @@
+.div2 {
+    margin-top: 20%;
+}
+
+.table {
+    border: 1px solid black;
+    margin: auto;
+}
+
+.heading1 {
+    width: 60vw;
+}
+
+.heading2 {
+    width: 15vw;
+}
+
+.output1 {
+    width: 60vw;
+    display: flex;
+    justify-content: center;
+}
+
+.output2 {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    background-color: rgb(255, 0, 0);
+    color: whitesmoke;
+    margin-left: 45%;
+    height: 4vh;
+}
+
+.Button {
+    margin-left: 40%;
+    background-color: #0080FF;
+    color: #ffff;
+    margin-top: 20px;
+    height: 2vw;
+}
